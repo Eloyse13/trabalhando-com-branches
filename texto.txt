@@ -1,0 +1,8 @@
+Criar uma branch = git branch nome-da-branch
+regras de criação de nome de branch
+>sem acentuação
+>sem expaços
+>sem nomes objetivos
+
+listar branches = git branch
+entrar em uma branch = git checkout nome-brangitch
