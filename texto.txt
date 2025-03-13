@@ -5,4 +5,9 @@ regras de criação de nome de branch
 >sem nomes objetivos
 
 listar branches = git branch
+
 entrar em uma branch = git checkout nome-brangitch
+ 
+ Mesclar branchs 
+ git checkout master ou main
+ git merge nome-branch
