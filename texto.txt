@@ -11,3 +11,19 @@ entrar em uma branch = git checkout nome-brangitch
  Mesclar branchs 
  git checkout master ou main
  git merge nome-branch
+
+ resolvendo conflitos
+ ao alterar um mesmo arquivo no mesmo trecho (linhas) de código, por commits
+ diferentes ou branchs diferentes,um conflito é detectado.
+ Isso ocorre porque o git controla para voce todas as alteraçoes de codicos que
+ foram realizadas e mosra o conflito para voce decida o que fazer
+
+ no vs code aparecem algumas opçoes
+ Accep Current Change = aceia a versao do codigo que ja estava presente no
+ brach atual descacando a versao do outro brach
+
+ Accept Incoming change = aceita a versao do código que esta vindo do outro
+ brach,descacando a versao do brach atual
+
+ compare chages = abre uma comparação lado a lado para que voce possa analisar
+ as diferenças antes de decidir qual alteração aceitar
